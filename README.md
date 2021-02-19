@@ -6,7 +6,8 @@ An OTP application made for Erlang and Elixir classes at AGH University.
 Description
 ---  
 
-Pollution monitoring is a rebar3 project, which uses the OTP *application* pattern.
+Pollution monitoring is a rebar3 project, which uses the OTP *application* pattern.  
+[Version](https://github.com/brzozia/rebar_pollution_with_mnesia) with Mnesia database.   
 #
 
 Module *src/pollution* is an Erlang module whose task is to process and store data about air pollution. It also enables to store and process data about measuring stations.  
